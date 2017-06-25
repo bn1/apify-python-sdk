@@ -1,0 +1,6 @@
+{
+  "error": {
+    "type": "RECORD_NOT_FOUND",
+    "message": "Record was not found."
+  }
+}

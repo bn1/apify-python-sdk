@@ -1,0 +1,32 @@
+[
+  {
+    "url" : "https://www.amazon.com/Logitech-Mouse-Wireless-Gorilla-910-004715/dp/B01FZP0C7K",
+    "loadingStartedAt" : "2017-06-24T18:00:20.053Z",
+    "userAgent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36",
+    "redactedProxyUrl" : "undefined//<redacted>@38.66.51.86:60000",
+    "html" : "<!DOCTYPE html><html><head><title>example output - 2.1</title></head><body></body></html>",
+    "loadingFinishedAt" : "2017-06-24T18:00:20.534Z",
+    "loadedUrl" : "https://www.amazon.com/Logitech-Mouse-Wireless-Gorilla-910-004715/dp/B01FZP0C7K",
+    "scriptResult" : null
+  },
+  {
+    "url" : "https://www.amazon.com/Logitech-Mouse-Wireless-Gorilla-910-004715/dp/B01FZP0C7K",
+    "loadingStartedAt" : "2017-06-24T18:00:20.053Z",
+    "userAgent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36",
+    "redactedProxyUrl" : "undefined//<redacted>@38.66.51.86:60000",
+    "html" : "<!DOCTYPE html><html><head><title>example output - 2.2</title></head><body></body></html>",
+    "loadingFinishedAt" : "2017-06-24T18:00:20.534Z",
+    "loadedUrl" : "https://www.amazon.com/Logitech-Mouse-Wireless-Gorilla-910-004715/dp/B01FZP0C7K",
+    "scriptResult" : null
+  },
+  {
+    "url" : "https://www.amazon.com/Logitech-Mouse-Wireless-Gorilla-910-004715/dp/B01FZP0C7K",
+    "loadingStartedAt" : "2017-06-24T18:00:20.053Z",
+    "userAgent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36",
+    "redactedProxyUrl" : "undefined//<redacted>@38.66.51.86:60000",
+    "html" : "<!DOCTYPE html><html><head><title>example output - 2.3</title></head><body></body></html>",
+    "loadingFinishedAt" : "2017-06-24T18:00:20.534Z",
+    "loadedUrl" : "https://www.amazon.com/Logitech-Mouse-Wireless-Gorilla-910-004715/dp/B01FZP0C7K",
+    "scriptResult" : null
+  }
+]

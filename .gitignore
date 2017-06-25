@@ -1,0 +1,9 @@
+.idea
+*.pyc
+.cache
+.coverage
+.tox
+MANIFEST
+dist/
+htmlcov/
+coverage.xml
